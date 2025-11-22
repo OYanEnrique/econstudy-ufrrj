@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="EconStudy - Plataforma de estudo para História Econômica Geral e Macroeconomia 1 - UFRRJ">
+    <title>EconStudy | Guia de Economia UFRRJ</title>
+    <link rel="icon" type="image/png" href="assets/images/icon.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/print.css" media="print">
+    <script src="assets/js/script.js" defer></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">
+                    <img src="assets/images/icon.png" alt="EconStudy" class="logo-icon">
+                    EconStudy
+                </h1>
+                <p class="subtitle">Guia de Estudos em Economia - UFRRJ</p>
+            </div>
+            
+            <div class="search-container">
+                <div class="search-wrapper">
+                    <input 
+                        type="text" 
+                        id="campo-busca" 
+                        class="search-input"
+                        placeholder="Busque por conceito, tópico ou palavra-chave..."
+                        aria-label="Campo de busca">
+                    <button onclick="buscarConceitos()" class="btn-search" aria-label="Buscar">
+                        🔍 Buscar
+                    </button>
+                </div>
+                
+                <div class="filter-container">
+                    <button onclick="filtrarMateria('todas')" class="btn-filter active" data-filter="todas">
+                        Todas
+                    </button>
+                    <button onclick="filtrarMateria('História Econômica Geral')" class="btn-filter" data-filter="historia">
+                        História Econômica
+                    </button>
+                    <button onclick="filtrarMateria('Macroeconomia 1')" class="btn-filter" data-filter="macro">
+                        Macroeconomia 1
+                    </button>
+                    <button onclick="limparBusca()" class="btn-clear">
+                        Limpar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div class="stats-bar" id="stats-bar">
+                <p class="stats-text">Carregando conceitos...</p>
+            </div>
+            
+            <section class="conceitos-grid" id="conceitos-grid">
+                <!-- Os cards serão inseridos dinamicamente aqui -->
+            </section>
+            
+            <div class="empty-state" id="empty-state" style="display: none;">
+                <div class="empty-icon">🔍</div>
+                <h2>Nenhum conceito encontrado</h2>
+                <p>Tente buscar por outros termos ou utilize os filtros acima.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h3>EconStudy</h3>
+                    <p>Desenvolvido durante a 10ª Imersão Dev com Google Gemini da Alura</p>
+                    <p class="university">Material de apoio para Economia - UFRRJ</p>
+                </div>
+                
+                <div class="footer-links">
+                    <a href="https://linkedin.com/in/yanenrique" target="_blank" rel="noopener noreferrer" class="footer-link">
+                        💼 LinkedIn
+                    </a>
+                    <a href="https://yanenrique.carrd.co/" target="_blank" rel="noopener noreferrer" class="footer-link">
+                        🌐 Portfolio
+                    </a>
+                    <a href="https://github.com/OYanEnrique" target="_blank" rel="noopener noreferrer" class="footer-link">
+                        💻 GitHub
+                    </a>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 Yan Enrique | Material educacional para estudos acadêmicos</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
