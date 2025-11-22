@@ -34,7 +34,7 @@
 
 **EconStudy** é uma aplicação web desenvolvida para auxiliar estudantes do curso de Economia da **Universidade Federal Rural do Rio de Janeiro (UFRRJ)** na preparação para provas de **História Econômica Geral** e **Macroeconomia 1**.
 
-O projeto nasceu da necessidade de organizar e tornar mais acessível o vasto conteúdo dessas disciplinas. Todo o material foi originado a partir de **anotações feitas à mão durante as aulas**, que posteriormente foram digitadas em arquivos de texto (.txt) e, finalmente, estruturadas em formato JSON para uso na aplicação web. Esse processo de transformação permitiu criar uma base de conhecimento pesquisável, organizada e sempre disponível.
+O projeto nasceu da necessidade de organizar e tornar mais acessível o vasto conteúdo dessas disciplinas pra todos os alunos. Todo o material foi originado a partir de **anotações feitas à mão durante as aulas**, que posteriormente foram digitadas em arquivos de texto (.txt) e, finalmente, estruturadas em formato JSON para uso na aplicação web. Esse processo de transformação permitiu criar uma base de conhecimento pesquisável, organizada e sempre disponível.
 
 ### 🎓 Contexto Acadêmico
 
@@ -248,6 +248,16 @@ A paleta de cores foi cuidadosamente selecionada para transmitir **profissionali
 - **HTML5** - Estrutura semântica e acessível
 - **CSS3** - Estilização moderna com Grid, Flexbox e variáveis CSS
 - **JavaScript (ES6+)** - Lógica de busca, filtros e renderização dinâmica
+
+### 🤖 Inteligência Artificial
+
+- **Google Gemini** - Utilizado como assistente fundamental no desenvolvimento do CSS e JavaScript do projeto
+  - **Estilização avançada**: Auxiliou na criação de um design responsivo e profissional, com componentes modernos e acessíveis
+  - **Lógica de programação**: Contribuiu no desenvolvimento das funcionalidades de busca, filtros e renderização dinâmica
+  - **Otimizações**: Sugeriu melhorias de performance e boas práticas de código
+  - **Resolução de problemas**: Apoiou na depuração e refinamento da experiência do usuário
+  
+O Gemini foi essencial para acelerar o desenvolvimento e garantir qualidade no código, especialmente na implementação de recursos como o menu hambúrguer mobile e o sistema de busca inteligente.
 - **JSON** - Estruturação da base de dados
 
 ### Conceitos Aplicados
