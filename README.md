@@ -1,4 +1,4 @@
-# 📊 EconStudy - Guia Interativo de Economia UFRRJ
+# <img src="assets/images/icon.png" alt="EconStudy" width="40" height="40" style="vertical-align: middle;"> EconStudy - Guia Interativo de Economia UFRRJ
 
 <div align="center">
 
