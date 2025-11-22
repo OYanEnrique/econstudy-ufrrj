@@ -8,7 +8,7 @@
 
 **Plataforma web interativa para estudo de História Econômica Geral e Macroeconomia 1**
 
-[🚀 Ver Demo](#) | [📖 Documentação](#sobre-o-projeto) | [👨‍💻 Desenvolvedor](https://linkedin.com/in/yanenrique)
+[🚀 Ver Demo](https://oyanenrique.github.io/econstudy-ufrrj/) | [📖 Documentação](#sobre-o-projeto) | [👨‍💻 Desenvolvedor](https://linkedin.com/in/yanenrique)
 
 </div>
 
