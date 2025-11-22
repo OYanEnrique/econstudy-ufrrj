@@ -419,7 +419,7 @@ Contribuições são sempre bem-vindas! Se você é um entusiasta ou estudante d
 
 ### Yan Enrique
 
-**Estudante de Economia | Analista de Dados | Desenvolvedor Web**
+**Estudante de Economia | Analista de Dados | UX/UI Designer | Desenvolvedor Web**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yanenrique)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yanenrique.carrd.co/)
