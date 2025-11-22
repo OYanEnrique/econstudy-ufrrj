@@ -460,7 +460,7 @@ modificar, mesclar, publicar, distribuir e/ou vender cópias do Software.
 
 Dúvidas, sugestões ou feedback? Entre em contato:
 
-- 📧 Email: [através do LinkedIn](https://linkedin.com/in/yanenrique)
+- 📧 Email: [enrique4work@gmail.com](mailto:enrique4work@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yanenrique](https://linkedin.com/in/yanenrique)
 - 🌐 Website: [yanenrique.carrd.co](https://yanenrique.carrd.co/)
 
