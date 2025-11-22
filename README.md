@@ -402,7 +402,7 @@ econstudy-ufrrj/
 
 ## 🤝 Contribuições
 
-Contribuições são sempre bem-vindas! Se você é um entusiasta ou estudante de Economia da UFRRJ e quer adicionar mais conceitos:
+Contribuições são sempre bem-vindas! Se você é um entusiasta ou estudante de Economia e quer adicionar mais conceitos:
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/NovoConceito`)
