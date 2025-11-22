@@ -13,15 +13,23 @@
 <body>
     <header class="header">
         <div class="container">
-            <div class="header-content">
-                <h1 class="logo">
-                    <img src="assets/images/icon.png" alt="EconStudy" class="logo-icon">
-                    EconStudy
-                </h1>
-                <p class="subtitle">Guia de Estudos em Economia - UFRRJ</p>
+            <div class="header-top">
+                <div class="header-content">
+                    <h1 class="logo">
+                        <img src="assets/images/icon.png" alt="EconStudy" class="logo-icon">
+                        EconStudy
+                    </h1>
+                    <p class="subtitle">Guia de Estudos em Economia - UFRRJ</p>
+                </div>
+                
+                <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menu">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </button>
             </div>
             
-            <div class="search-container">
+            <div class="search-container" id="search-container">
                 <div class="search-wrapper">
                     <input 
                         type="text" 

@@ -3,6 +3,30 @@ let conceitos = [];
 let conceitosExibidos = [];
 let materiaAtual = 'todas';
 
+// ===== MENU HAMBÚRGUER =====
+function inicializarMenuMobile() {
+    const menuToggle = document.getElementById('menu-toggle');
+    const searchContainer = document.getElementById('search-container');
+    
+    if (menuToggle) {
+        menuToggle.addEventListener('click', () => {
+            menuToggle.classList.toggle('active');
+            searchContainer.classList.toggle('active');
+        });
+        
+        // Fechar menu ao clicar em qualquer botão de filtro
+        const botoesFiltro = document.querySelectorAll('.btn-filter, .btn-clear, .btn-search');
+        botoesFiltro.forEach(botao => {
+            botao.addEventListener('click', () => {
+                if (window.innerWidth <= 768) {
+                    menuToggle.classList.remove('active');
+                    searchContainer.classList.remove('active');
+                }
+            });
+        });
+    }
+}
+
 // ===== CARREGAMENTO INICIAL =====
 async function carregarConceitos() {
     try {
@@ -11,6 +35,7 @@ async function carregarConceitos() {
         conceitosExibidos = conceitos;
         renderizarConceitos(conceitos);
         atualizarEstatisticas(conceitos.length, conceitos.length);
+        inicializarMenuMobile();
     } catch (erro) {
         console.error('Erro ao carregar conceitos:', erro);
         mostrarErro();
