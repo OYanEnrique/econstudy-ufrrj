@@ -1,0 +1,250 @@
+[
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Mercantilismo e Pré-Capitalismo",
+    "conceito": "Circuito M-D-M",
+    "definicao": "No mercantilismo, uma mercadoria é trocada por dinheiro para se obter outra mercadoria. O lucro era visto como prejuízo do outro.",
+    "relevancia": "alta",
+    "tags": ["mercantilismo", "pré-capitalismo", "comércio"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Capitalismo Produtivo",
+    "conceito": "Circuito D-M-D'",
+    "definicao": "No capitalismo, o dinheiro inicial (D) é investido em mercadorias (M) para gerar uma variação positiva do capital (D'). É o circuito produtivo capitalista.",
+    "relevancia": "alta",
+    "tags": ["capitalismo", "produção", "lucro"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Capitalismo Financeiro",
+    "conceito": "Circuito D-D'",
+    "definicao": "Processo de valorização do capital sem necessariamente passar pela mercadoria. O dinheiro gera mais dinheiro diretamente.",
+    "relevancia": "alta",
+    "tags": ["capitalismo", "finanças", "especulação"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Conceitos Fundamentais",
+    "conceito": "Capital",
+    "definicao": "Não é apenas dinheiro, mas uma relação social complexa que inclui meios de produção (ferramentas, máquinas, fábricas, terras) e força de trabalho.",
+    "relevancia": "alta",
+    "tags": ["capital", "trabalho", "produção"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Conceitos Fundamentais",
+    "conceito": "Capitalismo",
+    "definicao": "Sistema socioeconômico onde os meios de produção são propriedade privada, com objetivo principal de acumulação de capital através da geração de valor e lucro.",
+    "relevancia": "alta",
+    "tags": ["capitalismo", "sistema econômico", "propriedade privada"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Lógica dos Custos",
+    "conceito": "Custo Fixo",
+    "definicao": "Despesas que não mudam independentemente do volume de produção (ex: aluguel da fábrica, custo de uma máquina).",
+    "relevancia": "média",
+    "tags": ["custos", "produção", "gestão"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Lógica dos Custos",
+    "conceito": "Custo Variável",
+    "definicao": "Despesas que variam conforme a produção aumenta ou diminui (ex: matéria-prima, salários pagos por hora).",
+    "relevancia": "média",
+    "tags": ["custos", "produção", "flexibilidade"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Lógica dos Custos",
+    "conceito": "Estratégia Capitalista",
+    "definicao": "Transformar custo fixo em custo variável para aumentar flexibilidade e reduzir riscos (ex: terceirização ao invés de contratação permanente).",
+    "relevancia": "alta",
+    "tags": ["estratégia", "custos", "terceirização"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Revolução Industrial",
+    "conceito": "Origem e Base Industrial",
+    "definicao": "Começou na Inglaterra (séculos XVIII e XIX), impulsionada pela indústria têxtil e uso de energia hidráulica e vapor.",
+    "relevancia": "alta",
+    "tags": ["revolução industrial", "inglaterra", "mecanização"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Pensadores",
+    "conceito": "Adam Smith",
+    "definicao": "Pai da economia clássica, defensor do livre mercado. Suas ideias sobre competição foram interpretadas como 'sobrevivência do mais apto' na economia.",
+    "relevancia": "alta",
+    "tags": ["adam smith", "livre mercado", "economia clássica"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Pensadores",
+    "conceito": "Alexander Hamilton",
+    "definicao": "Defendia que os EUA se industrializassem protegendo sua indústria nascente com tarifas de importação e incentivos do governo.",
+    "relevancia": "média",
+    "tags": ["hamilton", "protecionismo", "industrialização"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Primeira Guerra Mundial",
+    "conceito": "Consequências Econômicas",
+    "definicao": "Endividamento das nações europeias (principalmente com EUA), destruição da infraestrutura produtiva e reparações de guerra impostas pelo Tratado de Versalhes.",
+    "relevancia": "alta",
+    "tags": ["primeira guerra", "dívida", "versalhes"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Entre Guerras",
+    "conceito": "Anos Dourados (1920s)",
+    "definicao": "Década de 1920 nos EUA marcada por grande crescimento econômico, fordismo, expansão do crédito e forte especulação financeira.",
+    "relevancia": "alta",
+    "tags": ["anos 20", "prosperidade", "especulação"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Entre Guerras",
+    "conceito": "Joseph Schumpeter",
+    "definicao": "Desenvolveu teoria dos ciclos econômicos e 'destruição criadora': inovações destroem tecnologias antigas, gerando progresso mas também instabilidade.",
+    "relevancia": "alta",
+    "tags": ["schumpeter", "inovação", "ciclos econômicos"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Grande Depressão",
+    "conceito": "Crise de 1929",
+    "definicao": "Quebra da Bolsa de Nova Iorque, estopim da Grande Depressão. Crise de superprodução e subconsumo que paralisou a economia mundial.",
+    "relevancia": "alta",
+    "tags": ["crise 1929", "depressão", "desemprego"]
+  },
+  {
+    "materia": "História Econômica Geral",
+    "topico": "Grande Depressão",
+    "conceito": "Ruptura Keynesiana",
+    "definicao": "Keynes argumentou que o Estado deve intervir em crises através de gastos públicos, redução de juros e políticas de pleno emprego para estimular demanda agregada.",
+    "relevancia": "alta",
+    "tags": ["keynes", "intervenção estatal", "demanda agregada"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Conceitos Básicos",
+    "conceito": "Custo de Oportunidade",
+    "definicao": "Quando fazemos uma escolha, abrimos mão de outra coisa. Representa o valor da melhor alternativa não escolhida.",
+    "relevancia": "alta",
+    "tags": ["escolha", "escassez", "decisão"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Contabilidade Social",
+    "conceito": "Fluxo Circular da Renda",
+    "definicao": "Modelo com famílias e firmas: fluxo real (fatores de produção e bens) e fluxo monetário (remuneração e pagamentos).",
+    "relevancia": "alta",
+    "tags": ["fluxo circular", "renda", "contabilidade"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Óticas de Medição",
+    "conceito": "Ótica do Produto Nacional",
+    "definicao": "Soma dos preços × quantidades de todos os bens e serviços finais (Σ pi × qi). Usa Valor Adicionado para evitar dupla contagem.",
+    "relevancia": "alta",
+    "tags": ["produto nacional", "valor adicionado", "medição"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Óticas de Medição",
+    "conceito": "Ótica da Renda Nacional",
+    "definicao": "Soma de todas as remunerações dos fatores: RN = Salários + Aluguéis + Juros + Lucros.",
+    "relevancia": "alta",
+    "tags": ["renda nacional", "remuneração", "fatores"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Óticas de Medição",
+    "conceito": "Ótica da Despesa Nacional",
+    "definicao": "Soma de todos os gastos: DN = C + I + G + (X - M), onde C=consumo, I=investimento, G=gastos governo, X=exportações, M=importações.",
+    "relevancia": "alta",
+    "tags": ["despesa nacional", "consumo", "investimento"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Agregados Macroeconômicos",
+    "conceito": "PIB vs PNB",
+    "definicao": "PIB mede produção dentro do território. PNB = PIB + RLFE (Renda Líquida de Fatores Externos). RLFE = Renda Recebida - Renda Enviada.",
+    "relevancia": "alta",
+    "tags": ["PIB", "PNB", "renda externa"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Poupança e Investimento",
+    "conceito": "Poupança (S)",
+    "definicao": "Parte da renda que não é consumida: S = RN - C. Representa recursos disponíveis para investimento.",
+    "relevancia": "alta",
+    "tags": ["poupança", "renda", "consumo"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Poupança e Investimento",
+    "conceito": "Investimento (I)",
+    "definicao": "Ampliação da capacidade produtiva. Inclui Formação Bruta de Capital Fixo (FBKF) e Variação de Estoques (ΔE).",
+    "relevancia": "alta",
+    "tags": ["investimento", "capital", "produção"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Identidades Macroeconômicas",
+    "conceito": "Equação Fundamental",
+    "definicao": "I = S + (T - G) + (M - X). Investimento é financiado por Poupança Privada, Poupança do Governo e Poupança Externa.",
+    "relevancia": "alta",
+    "tags": ["identidade", "poupança", "investimento"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Setor Externo",
+    "conceito": "Mercado de Divisas",
+    "definicao": "Oferta (exportações + entrada de capitais) e demanda (importações + aplicações no exterior) determinam a taxa de câmbio.",
+    "relevancia": "alta",
+    "tags": ["câmbio", "divisas", "moeda estrangeira"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Setor Externo",
+    "conceito": "PIB e Comércio Exterior",
+    "definicao": "PIB + M = C + I + G + X. Se Despesa Doméstica < PIB, há superávit comercial (X > M). Se Despesa > PIB, há déficit (X < M).",
+    "relevancia": "alta",
+    "tags": ["comércio exterior", "superávit", "déficit"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Balanço de Pagamentos",
+    "conceito": "Estrutura do BP",
+    "definicao": "Conta Corrente (comércio, serviços, rendas) + Conta de Capital/Financeira (investimentos) + Transações Oficiais de Reservas = 0.",
+    "relevancia": "alta",
+    "tags": ["balanço pagamentos", "conta corrente", "reservas"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Balanço de Pagamentos",
+    "conceito": "Equilíbrio do BP",
+    "definicao": "BP = CC + CK + TOR = 0. Superávit em CC + CK aumenta reservas. Déficit reduz reservas. Em câmbio flutuante: CC = -CK.",
+    "relevancia": "alta",
+    "tags": ["equilíbrio", "reservas", "câmbio flutuante"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Fluxo Circular Completo",
+    "conceito": "Papel do Governo",
+    "definicao": "Arrecada impostos diretos (famílias) e indiretos (empresas). Realiza gastos com compras, transferências e subsídios.",
+    "relevancia": "alta",
+    "tags": ["governo", "impostos", "gastos públicos"]
+  },
+  {
+    "materia": "Macroeconomia 1",
+    "topico": "Fluxo Circular Completo",
+    "conceito": "Carga Tributária",
+    "definicao": "CTB (Bruta) = total de impostos. CTL (Líquida) = CTB - transferências - subsídios.",
+    "relevancia": "média",
+    "tags": ["tributação", "impostos", "carga tributária"]
+  }
+]
