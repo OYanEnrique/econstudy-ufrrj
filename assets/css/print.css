@@ -1,0 +1,130 @@
+/* ===== ESTILOS PARA IMPRESSÃO ===== */
+@media print {
+    /* Ocultar elementos desnecessários */
+    .header,
+    .search-container,
+    .filter-container,
+    .stats-bar,
+    .footer,
+    .btn-search,
+    .btn-filter,
+    .btn-clear {
+        display: none !important;
+    }
+    
+    /* Configurações gerais */
+    * {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+    
+    body {
+        margin: 0;
+        padding: 1cm;
+        font-size: 11pt;
+        line-height: 1.4;
+    }
+    
+    /* Título para impressão */
+    .main-content::before {
+        content: "EconStudy - Guia de Estudos em Economia";
+        display: block;
+        font-size: 18pt;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 1cm;
+        padding-bottom: 0.5cm;
+        border-bottom: 2pt solid black;
+    }
+    
+    /* Grid de conceitos */
+    .conceitos-grid {
+        display: block;
+        margin: 0;
+    }
+    
+    /* Cards */
+    .conceito-card {
+        page-break-inside: avoid;
+        margin-bottom: 0.5cm;
+        padding: 0.5cm;
+        border: 1pt solid #ccc !important;
+        border-radius: 0;
+    }
+    
+    .card-conceito {
+        font-size: 13pt;
+        font-weight: bold;
+        margin-bottom: 0.3cm;
+    }
+    
+    .card-topico {
+        font-size: 9pt;
+        font-style: italic;
+        margin-bottom: 0.2cm;
+    }
+    
+    .card-definicao {
+        font-size: 10pt;
+        line-height: 1.4;
+    }
+    
+    /* Badges */
+    .materia-badge {
+        display: inline-block;
+        padding: 0.1cm 0.3cm;
+        border: 1pt solid black !important;
+        border-radius: 0.2cm;
+        font-size: 8pt;
+        font-weight: bold;
+        margin-bottom: 0.2cm;
+    }
+    
+    /* Tags */
+    .card-tags {
+        margin-top: 0.3cm;
+        page-break-inside: avoid;
+    }
+    
+    .tag {
+        display: inline-block;
+        padding: 0.05cm 0.2cm;
+        border: 0.5pt solid #999 !important;
+        margin: 0.05cm;
+        font-size: 8pt;
+    }
+    
+    /* Paginação */
+    @page {
+        margin: 1.5cm;
+    }
+    
+    /* Rodapé de página */
+    @page :footer {
+        content: "EconStudy - Criado por Yan Enrique - Página " counter(page);
+    }
+    
+    /* Links */
+    a {
+        text-decoration: none;
+        color: black !important;
+    }
+    
+    a[href]::after {
+        content: "";
+    }
+    
+    /* Rodapé final */
+    .main-content::after {
+        content: "\A\A─────────────────────────────────────\A\A EconStudy - Desenvolvido por Yan Enrique\AImersão Dev com Google Gemini - Alura 2025 \AMaterial de apoio para Economia - UFRRJ";
+        white-space: pre;
+        display: block;
+        text-align: center;
+        margin-top: 2cm;
+        font-size: 10pt;
+        font-weight: bold;
+        page-break-before: avoid;
+    }
+}
